@@ -4,7 +4,7 @@
 
 
 
-Hi there! I’m Taha, a high school student and junior coder with JPMorgan. I’m deeply interested in cybersecurity and aiming to make my mark as a Cybersecurity Analyst. I’m also dedicated to becoming a skilled and proficient programmer. In my free time, I love playing the bass guitar and rocking out to my favorite tunes. I’m also a passionate photographer, capturing the world through my lens. Currently, I’m working with Python and constantly learning new technologies. Based in New York and New Jersey, I’m always looking for exciting projects and collaborations. Feel free to check out my repositories and connect with me.
+Hi there! I’m Taha, a high school student and junior coder with JPMorgan. I’m deeply interested in cybersecurity and aiming to make my mark as a Cybersecurity Architect. I’m also dedicated to becoming a skilled and proficient programmer. My coding journey began with teaching myself in my room every night and taking the Harvard CS50 course. Initially, I found coding to be quite challenging and time-consuming, but as I delved deeper, I started to appreciate the intricacies of how websites and software work. Over time, I have worked on various projects that have enhanced my coding skills. In my free time, I love playing the bass guitar and rocking out to my favorite tunes. I’m also a passionate photographer, capturing the world through my lens. Currently, I’m working with Python and constantly learning new technologies. Based in New York and New Jersey, I’m always looking for exciting projects and collaborations. Feel free to check out my repositories and connect with me.
 
 <!--
 **TDVisuals/TDVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
