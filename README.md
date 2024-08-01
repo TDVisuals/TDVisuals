@@ -1,5 +1,10 @@
 ![IMG_2159](https://github.com/user-attachments/assets/9f277ffd-756c-4cc7-a00c-48a7dcb5f189)
 ![IMG_2160](https://github.com/user-attachments/assets/fe889534-3b66-4719-9d5c-6e0804383937)
+
+
+
+
+
 Hi there! I’m Taha, a high school student and junior coder with JPMorgan. I’m deeply interested in cybersecurity and aiming to make my mark as a Cybersecurity Analyst. I’m also dedicated to becoming a skilled and proficient programmer. In my free time, I love playing the bass guitar and rocking out to my favorite tunes. I’m also a passionate photographer, capturing the world through my lens. Currently, I’m working with Python and constantly learning new technologies. Based in New York and New Jersey, I’m always looking for exciting projects and collaborations. Feel free to check out my repositories and connect with me.
 
 <!--
